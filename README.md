@@ -10,4 +10,4 @@ Este código simula um pregão da bolsa de valores, onde as empresas e clientes 
 - Lucas Moura
 
 # API's utilizadas 
-- - github - inteliji - chatgpt
+- - github - inteliji 
