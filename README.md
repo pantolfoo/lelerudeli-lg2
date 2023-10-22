@@ -1,4 +1,13 @@
-# lg2
-códigos de lg2
+# Bolsa de Valores
 
-pregão da bolsa - Letícia Rudeli e Isabella Pantolfo
+Este código simula um pregão da bolsa de valores, onde as empresas e clientes são ligados por uma corretora
+
+# Participantes 
+
+Isabella Pantolfo
+João Vitor
+Letícia Rudeli 
+Lucas Moura
+
+# API's utilizadas 
+- github - inteliji - chatgpt
