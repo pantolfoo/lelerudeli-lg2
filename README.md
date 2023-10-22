@@ -4,10 +4,10 @@ Este código simula um pregão da bolsa de valores, onde as empresas e clientes 
 
 # Participantes 
 
-Isabella Pantolfo
-João Vitor
-Letícia Rudeli 
-Lucas Moura
+- Isabella Pantolfo
+- João Vitor
+- Letícia Rudeli 
+- Lucas Moura
 
 # API's utilizadas 
-- github - inteliji - chatgpt
+- - github - inteliji - chatgpt
